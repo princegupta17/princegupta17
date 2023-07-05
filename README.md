@@ -80,7 +80,7 @@
 
 <p>
     &nbsp;
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=princegupta17&show_icons=true&locale=en&theme=dracula" alt="princegupta17" />
+    <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=princegupta17&show_icons=true&locale=en&layout=compact&theme=dracula" alt="princegupta17" /></p>
 </p>
 
 <p>
