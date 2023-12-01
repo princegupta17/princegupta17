@@ -3,7 +3,7 @@
     justify-content: center;
     align-items: center; 
     background-color:black;">
-<img src="https://camo.githubusercontent.com/7126894c136cfcea2ead9679838b0ca5b8bf50f64c0b76dc0e69e75d9fc57314/68747470733a2f2f7237713677397a362e726f636b657463646e2e6d652f6361726565722f77702d636f6e74656e742f75706c6f6164732f323032302f30332f68656c6c6f2e676966" alt="Computer man" style="margin:auto" >
+<img src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif" alt="Computer man" style="margin:auto" >
 </p>
 
 <h1 align="center">Hi 👋, I'm Prince Gupta</h1>
